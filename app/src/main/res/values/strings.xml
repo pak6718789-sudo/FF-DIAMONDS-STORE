@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FF Diamond Store</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_packages">Diamonds</string>
+    <string name="nav_orders">My Orders</string>
+    <string name="nav_dashboard">Account</string>
+    <string name="hero_title">Instant Free Fire Diamonds</string>
+    <string name="hero_subtitle">Pay securely in PKR via JazzCash or EasyPaisa with manual verification.</string>
+    <string name="demo_rates_notice">Initial configurable demo rates shown in PKR. Editable anytime in Admin Panel.</string>
+    <string name="local_mode_notice">Running in local device storage mode (cloud Firebase sync was skipped).</string>
+    <string name="security_pin_notice">Security Reminder: Never share your JazzCash/EasyPaisa PIN, OTP, or password.</string>
+    <string name="reward_fulfilment_notice">Free rewards remain Pending Manual Fulfilment until an authorized top-up is completed.</string>
+    <string name="error_invalid_uid">Enter a valid numeric Free Fire Player UID (6 to 15 digits).</string>
+    <string name="error_invalid_email">Enter a valid email address.</string>
+    <string name="error_short_password">Password must be at least 6 characters.</string>
+    <string name="error_missing_tid">Please enter your Transaction Reference ID.</string>
+    <string name="error_missing_screenshot">Please upload your payment receipt screenshot.</string>
+    <string name="contact_support_title">Support &amp; Help Center</string>
+    <string name="payment_instructions_title">Payment Instructions</string>
+    <string name="admin_panel_title">Admin Dashboard</string>
+</resources>

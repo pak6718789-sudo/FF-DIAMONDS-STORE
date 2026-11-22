@@ -1,0 +1,6 @@
+{
+  "name": "FF Diamond Store",
+  "description": "Free Fire Diamond Top-Up Android store with PKR packages, JazzCash and EasyPaisa checkout, order tracking, rewards, and an Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
